@@ -30,6 +30,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 💼 Technical Skills
+
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-blue?style=flat&logo=apache&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=flat&logo=ml&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=flat&logo=neural_network&logoColor=white) 
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-orange?style=flat) 
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-yellow?style=flat) 
+
+
 ## Socials 🔗
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasya-nayani-bhatta/)
 
