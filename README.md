@@ -9,3 +9,8 @@
 📊 While my professional world revolves around turning data into insights, I’m equally passionate about 🚀 entrepreneurship and love exploring ideas that blend creativity with real-world impact.  
 
 🛠️ Whether it’s designing smart systems or just experimenting with bold side projects, I’m always building, learning, and dreaming big.
+
+## 💻 Tech Stack
+
+### 🛠️ Languages & Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
