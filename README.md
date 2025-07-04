@@ -32,11 +32,11 @@
 
 ### 💼 Technical Skills
 
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-blue?style=flat&logo=apache&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=flat&logo=ml&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=flat&logo=neural_network&logoColor=white) 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-orange?style=flat) 
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-yellow?style=flat) 
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-blue?style=for-the-badge) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge) 
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-orange?style=for-the-badge) 
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-yellow?style=for-the-badge) 
 
 
 ## Socials 🔗
