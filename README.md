@@ -8,7 +8,7 @@
 
 📊 While my professional world revolves around turning data into insights, I’m equally passionate about 🚀 entrepreneurship and love exploring ideas that blend creativity with real-world impact.  
 
-🛠️ Whether it’s designing smart systems or just experimenting with bold side projects, I’m always building, learning, and dreaming big.
+🛠️ Whether it’s developing innovative solutions or experimenting with bold side projects, I’m always building, learning, and dreaming big.
 
 ## 💻 Tech Stack
 
